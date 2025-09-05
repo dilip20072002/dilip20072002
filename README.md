@@ -1,16 +1,16 @@
 Hi there 👋 Welcome to my GitHub profile!
 
-I'm Dilip Patel, a passionate Backend Developer and currently diving into Spring Boot and Node.js.I love exploring new technologies and building innovative projects.
+I'm Dilip Patel, currently working as a Backend Developer at VVNT, specializing in ASP.NET Core. I enjoy solving real-world problems with clean, scalable, and efficient backend solutions.
 
-🔭 What I'm Working On React and Node.js (Full Stack)
+🔭 Building and optimizing enterprise-grade applications with .NET Core and SQL Server.
 
-🌱 What I'm Learning Docker and Kubernetes
+🌱 Expanding my skills in Microservices, Docker, and Kubernetes for modern cloud-native development.
 
-💬 Ask Me About Java & JavaScript-based Back-end technologies
+💬 Backend development with C#, .NET Core, SQL, Java, and JavaScript-based services.
 
 📫 How to Reach Me Email: ddilip222002@gmail.com
 
-📂 Key Projects Pitch Venture Backend: A robust backend server built with Node.jsand Express.js
+📂 Key Projects Pitch Venture Backend: Robust backend server built with Node.js & Express.js
 
 Food Oredering System App: A food ordering application near your area developed with React and Express.js
 
