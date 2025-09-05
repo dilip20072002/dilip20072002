@@ -1,6 +1,6 @@
 Hi there 👋 Welcome to my GitHub profile!
 
-I'm Dilip Patel, currently working as a Backend Developer at VVNT, specializing in ASP.NET Core. I enjoy solving real-world problems with clean, scalable, and efficient backend solutions.
+I'm Dilip Patel, currently working as a Backend Developer at VVnT SeQuor, specializing in ASP.NET Core. I enjoy solving real-world problems with clean, scalable, and efficient backend solutions.
 
 🔭 Building and optimizing enterprise-grade applications with .NET Core and SQL Server.
 
