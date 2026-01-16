@@ -10,10 +10,10 @@ I'm Dilip Patel, currently working as a Backend Developer at VVnT SeQuor, specia
 
 📫 How to Reach Me Email: ddilip222002@gmail.com
 
-📂 Key Projects Pitch Venture Backend: Robust backend server built with Node.js & Express.js
+📂 LTTS - (L & T Project): ASP.NET Core Web API–based backend application with multiple business modules and Azure deployment.
 
-Food Oredering System App: A food ordering application near your area developed with React and Express.js
+📂 Food Oredering System App: Backend-driven food ordering system built with ASP.NET Core Web API, SQL Server, and React frontend integration.
 
-🌐 Connect with Me linkedin.com/in/dilip-patel-731380228
+🌐 Connect with Me linkedin.com/in/dilippatel011
 
 GitHub: dilip20072002
